@@ -1,10 +1,25 @@
 remote_theme: mmistakes/minimal-mistakes@latest
 title: My Jekyll Site
-description: A simple Jekyll-powered site.
-url: https://your-username.github.io
+description: >
+  A site powered by the Minimal Mistakes Jekyll theme.
+url: "https://your-username.github.io"
+baseurl: ""
 
-navigation:
-  - name: Home
-    link: /
-  - name: CFD
-    link: /blog
+theme_settings:
+  author:
+    name: Your Name
+    avatar: /assets/images/avatar.png
+    bio: "Welcome to my site!"
+
+# Social icons
+social_links:
+  - name: GitHub
+    url: https://github.com/your-username
+    icon: fab fa-github
+  - name: LinkedIn
+    url: https://linkedin.com/in/your-profile
+    icon: fab fa-linkedin
+
+# Footer text
+footer:
+  copyright: "© 2025 Your Name. Powered by Jekyll and Minimal Mistakes."
