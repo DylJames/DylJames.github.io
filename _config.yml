@@ -1,4 +1,4 @@
-theme: Minimal Mistakes
+remote_theme: mmistakes/minimal-mistakes@latest
 title: My Jekyll Site
 description: A simple Jekyll-powered site.
 url: https://your-username.github.io
