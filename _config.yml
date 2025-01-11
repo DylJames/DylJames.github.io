@@ -1,4 +1,5 @@
 remote_theme: mmistakes/minimal-mistakes@latest
+
 title: DylJames's Blog
 description: >
   Welcome to my site powered by the Minimal Mistakes theme.
@@ -21,7 +22,7 @@ defaults:
 plugins:
   - jekyll-feed
 
-  nav:
+nav:
   - name: Home
     link: /
   - name: About
