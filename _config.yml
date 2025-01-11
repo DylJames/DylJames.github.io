@@ -1,3 +1,22 @@
-title: My Jekyll Site
-description: A simple Jekyll-powered site on GitHub Pages.
 remote_theme: mmistakes/minimal-mistakes@latest
+title: DylJames's Blog
+description: >
+  Welcome to my site powered by the Minimal Mistakes theme.
+baseurl: "" # Leave this blank for user/organization site.
+url: "https://DylJames.github.io"
+
+theme_settings:
+  author:
+    name: DylJames
+    avatar: /assets/images/avatar.png # Optional, replace with your image.
+    bio: "This is my personal website."
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: single
+
+plugins:
+  - jekyll-feed
