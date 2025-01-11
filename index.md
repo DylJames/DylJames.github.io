@@ -2,5 +2,5 @@
 layout: default
 title: Home
 ---
-# Welcome to My Jekyll Site!
+# Dylan James
 This is the homepage of my Jekyll-powered site.
