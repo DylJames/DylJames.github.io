@@ -1,3 +1,10 @@
+theme: minima
 title: My Jekyll Site
-description: A simple Jekyll-powered site on GitHub Pages.
-theme: jekyll-theme-cayman
+description: A simple Jekyll-powered site.
+url: https://your-username.github.io
+
+navigation:
+  - name: Home
+    link: /
+  - name: Blog
+    link: /blog
