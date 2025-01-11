@@ -20,3 +20,11 @@ defaults:
 
 plugins:
   - jekyll-feed
+
+  nav:
+  - name: Home
+    link: /
+  - name: About
+    link: /about/
+  - name: Blog
+    link: /blog/
